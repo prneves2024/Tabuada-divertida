@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tabuada-divertida/static/css/main.4454fced.css",
+    "main.js": "/tabuada-divertida/static/js/main.e91fc44d.js",
+    "static/js/453.d7b77830.chunk.js": "/tabuada-divertida/static/js/453.d7b77830.chunk.js",
+    "index.html": "/tabuada-divertida/index.html",
+    "main.4454fced.css.map": "/tabuada-divertida/static/css/main.4454fced.css.map",
+    "main.e91fc44d.js.map": "/tabuada-divertida/static/js/main.e91fc44d.js.map",
+    "453.d7b77830.chunk.js.map": "/tabuada-divertida/static/js/453.d7b77830.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4454fced.css",
+    "static/js/main.e91fc44d.js"
+  ]
+}
